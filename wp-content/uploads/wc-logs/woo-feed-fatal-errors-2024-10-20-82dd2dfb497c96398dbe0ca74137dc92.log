@@ -1,0 +1,18 @@
+2024-10-20T11:05:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Ecommerce\wp-admin\includes\class-wp-filesystem-direct.php on line 66
+ CONTEXT: {"data":null}
+2024-10-20T11:05:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Ecommerce\wp-content\plugins\woocommerce\src\Admin\RemoteSpecs\RuleProcessors\Transformers\DotNotation.php on line 14
+ CONTEXT: {"data":null}
+2024-10-20T11:06:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Ecommerce\wp-admin\includes\class-wp-filesystem-direct.php on line 455
+ CONTEXT: {"data":null}
+2024-10-20T11:06:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Ecommerce\wp-content\plugins\woocommerce-paypal-payments\vendor\composer\ClassLoader.php on line 429
+ CONTEXT: {"data":null}
+2024-10-20T11:14:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Ecommerce\wp-content\plugins\pinterest-for-woocommerce\includes\class-pinterest-for-woocommerce-ads-supported-countries.php on line 11
+ CONTEXT: {"data":null}
+2024-10-20T11:14:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Ecommerce\wp-content\plugins\ti-woocommerce-wishlist\integrations\wp-multilang.php on line 16
+ CONTEXT: {"data":null}
+2024-10-20T11:14:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Ecommerce\wp-content\plugins\woocommerce-paypal-payments\vendor\composer\ClassLoader.php on line 429
+ CONTEXT: {"data":null}
+2024-10-20T11:41:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Ecommerce\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+ CONTEXT: {"data":null}
+2024-10-20T11:43:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\Ecommerce\wp-admin\includes\class-wp-filesystem-direct.php on line 66
+ CONTEXT: {"data":null}
